@@ -1,0 +1,1 @@
+https://github.com/Negorizont/the-first-draft-of-the-site.git
